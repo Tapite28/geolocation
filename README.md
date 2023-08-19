@@ -1,2 +1,2 @@
-# geolocation
-Software for the geolocation of patients for their assistance by doctors. 
+# patients_geolocation
+Project to locate patients in order to facilitate their home appointments by medical specialists
